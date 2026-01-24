@@ -127,6 +127,31 @@ Ti-6Al-6V-2Sn,Ti,86.0
 Ti-6Al-6V-2Sn,Al,6.0
 Ti-6Al-6V-2Sn,V,6.0
 Ti-6Al-6V-2Sn,Sn,2.0
+Ti_13Nb_13Zr,Ti,74
+Ti_13Nb_13Zr,Nb,13
+Ti_13Nb_13Zr,Zr,13
+
+Ti_20Nb_10Zr_5Ta,Ti,65
+Ti_20Nb_10Zr_5Ta,Nb,20
+Ti_20Nb_10Zr_5Ta,Zr,10
+Ti_20Nb_10Zr_5Ta,Ta,5
+
+Ti_29Nb_13Ta_4.6Zr,Ti,53.4
+Ti_29Nb_13Ta_4.6Zr,Nb,29
+Ti_29Nb_13Ta_4.6Zr,Ta,13
+Ti_29Nb_13Ta_4.6Zr,Zr,4.6
+
+Ti_15V_3Cr_3Al_3Sn,Ti,76
+Ti_15V_3Cr_3Al_3Sn,V,15
+Ti_15V_3Cr_3Al_3Sn,Cr,3
+Ti_15V_3Cr_3Al_3Sn,Al,3
+Ti_15V_3Cr_3Al_3Sn,Sn,3
+
+Ti_15Mo_3Al_3Nb_0.2Si,Ti,78.8
+Ti_15Mo_3Al_3Nb_0.2Si,Mo,15
+Ti_15Mo_3Al_3Nb_0.2Si,Al,3
+Ti_15Mo_3Al_3Nb_0.2Si,Nb,3
+Ti_15Mo_3Al_3Nb_0.2Si,Si,0.2
 
 
 
