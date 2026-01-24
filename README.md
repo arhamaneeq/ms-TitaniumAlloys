@@ -7,3 +7,5 @@ evolution and their effects on mechanical properties ([DOI](https://doi.org/10.1
 
 <img width="1200" height="800" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/5638ff77-6f70-4257-ac1a-38abd1b9cce6" />
 
+<img width="1000" height="700" alt="Code_Generated_Image (2)" src="https://github.com/user-attachments/assets/761b219f-5b53-4140-b387-9cf6104485f4" />
+
