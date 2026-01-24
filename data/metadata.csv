@@ -32,3 +32,7 @@ Ti64_AB_1,https://doi.org/10.3390/ma11071088,Journal,Figures 4–7,Cold rolled +
 Ti64_AB_2,https://doi.org/10.3390/ma11071088,Journal,Figures 4–7,Cold rolled + annealed (grain growth),Not reported
 Ti6242_AB,https://doi.org/10.3390/ma11071088,Journal,Discussion section,α+β aerospace alloy (for comparison),Not reported
 Ti60_AB,https://doi.org/10.3390/ma11071088,Journal,Discussion section,High-temperature α+β alloy,Not reported
+Ti64_AB_1,2.8,Alpha + Beta,Equiaxed + Lamellar,,EBSD
+Ti64_AB_2,11.7,Alpha + Beta,Equiaxed,,EBSD
+Ti6242_AB,,Alpha + Beta,Bimodal,,Literature
+Ti60_AB,,Alpha + Beta,Bimodal,,Literature
