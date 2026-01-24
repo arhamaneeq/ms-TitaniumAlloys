@@ -20,3 +20,16 @@ T2C4Z5A_BF_92060WQ, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2,
 Ti6242_SPSs, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2, SPS Sintering, Not reported
 Ti6242_SPSs75, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2, SPS Sintering + 75% plastic deformation, Not reported
 T6A4V_ar_C,https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2,As Received, Not reported
+Ti-6242S,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Stabilized,Not reported
+IMI_834,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + 1298K 120 min Heat Treated,Not reported
+Ti-1100,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Rolled + Heat Treated,Not reported
+BT_36,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Heat Treated,Not reported
+Ti-60,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged (Bimodal Microstructure),Not reported
+Ti-60_HighTemp,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table II,Heat Treated at 873K,Not reported
+Ti-11,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I,Not specified,Not reported
+IMI_685,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I,Not specified,Not reported
+TC4_Ti64,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table II / Table III,Standard Rolling / As Received,Not reported
+Ti64_TiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Laser Cladding / LMD (5-20% Vol),Not reported
+Ti64_TiB_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,In-situ Synthesis,Not reported
+Ti64_SiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Hot Pressing (15% Vol),Not reported
+Ti64_CNT_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Powder Metallurgy,Not reported
