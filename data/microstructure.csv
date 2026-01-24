@@ -28,3 +28,7 @@ Ti-6Al-4V,,Alpha + Beta,Bimodal (Equiaxed α + Lamellar β),,Not reported
 Ti-6242S,,Alpha + Beta,Equiaxed + Transformed β,,Not reported
 Ti-17,,Alpha + Beta,Lamellar + Basket-weave,,Not reported
 TC11,,Alpha + Beta,Duplex (Primary α + Lamellar β),,Not reported
+Ti64_AB_1,2.8,Alpha + Beta,Equiaxed + Lamellar,,EBSD
+Ti64_AB_2,11.7,Alpha + Beta,Equiaxed,,EBSD
+Ti6242_AB,,Alpha + Beta,Bimodal,,Literature
+Ti60_AB,,Alpha + Beta,Bimodal,,Literature
