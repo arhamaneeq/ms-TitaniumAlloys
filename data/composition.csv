@@ -106,10 +106,6 @@ Ti6242_SPSs75, Sn, 2
 Ti6242_SPSs75, Zr, 4
 Ti6242_SPSs75, Mo, 2
 
-T6A4V_ar_C,Ti,90
-T6A4V_ar_C,Al,6
-T6A4V_ar_C,V,4
-
 Ti-6Al-2Sn-4Zr-2Mo,Ti,86.0
 Ti-6Al-2Sn-4Zr-2Mo,Al,6.0
 Ti-6Al-2Sn-4Zr-2Mo,Sn,2.0
