@@ -31,3 +31,8 @@ Ti64_TiB_Composite,,TiB,Needle / Whisker,,Not reported
 Ti64_SiC_Composite,10-50,SiC,Particle,,Not reported
 Near-alpha_Y2O3_Composite,0.05,Y2O3,Nano-dispersed,,Not reported
 Ti-6.5Al-2Zr-1Mo-1V_La2O3,,La2O3,Particle,,Not reported
+Ti_13Nb_13Zr               ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_20Nb_10Zr_5Ta           ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_29Nb_13Ta_4.6Zr         ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_15V_3Cr_3Al_3Sn         ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_15Mo_3Al_3Nb_0.2Si      ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
