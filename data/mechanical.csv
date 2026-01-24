@@ -27,5 +27,10 @@ Ti-6242S,Near-alpha,900,970,12,,,293,
 BT 36,Near-alpha,960,1050,10,,,293,
 Ti-6Al-4V,Alpha+Beta,880,950,14,,,293,
 Ti-60 (High Temp),Near-alpha,560,680,19,,,873,
+Ti_13Nb_13Zr,beta,,,,,,,
+Ti_20Nb_10Zr_5Ta,beta,,,,,,,
+Ti_29Nb_13Ta_4.6Zr,metastable-beta,,,,,,,
+Ti_15V_3Cr_3Al_3Sn,metastable-beta,770,790,22,95,Rockwell B,298,
+Ti_15Mo_3Al_3Nb_0.2Si,metastable-beta,,,,,,,
 
 
