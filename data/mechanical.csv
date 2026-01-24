@@ -56,3 +56,17 @@ Ti_15Mo_3Al_3Nb_0.2Si,metastable-beta,,,,,,,
 
 >>>>>>> 543d1a3ccf2c1b9389fdbe28bdd0cd08d6293fb0
 
+TC11_950C,alpha+beta,not reported,1095,11.8,not reported,not reported,298,not reported
+TC11_1000C,alpha+beta,not reported,1104,8.4,not reported,not reported,298,not reported
+Ti-6Al-4V_b,alpha+beta,915,965,19,not reported,not reported,298,8e-4
+Ti-6Al-4V_ELI,alpha+beta,795–875,860–965,10–15,not reported,not reported,298,not reported
+Ti-6Al-4V_c,alpha+beta,825–869,895–930,6–10,not reported,not reported,298,not reported
+Ti-6Al-7Nb,alpha+beta,880–950,900–1050,8.1–15,not reported,not reported,298,not reported
+Ti-5Al-2.5Fe,alpha+beta,895,1020,35,not reported,not reported,298,not reported
+Ti-13Nb-13Zr,beta,836–908,973–1037,10–16,not reported,not reported,298,not reported
+Ti-15Mo,beta,544,874,82,not reported,not reported,298,not reported
+Ti-15Mo-5Zr-3Al,beta,838–1060,852–1100,18–25,not reported,not reported,298,not reported
+Ti-35.3Nb-5.1Ta-7.1Zr,beta,547.1,596.7,19.0,not reported,not reported,298,not reported
+Ti-29Nb-13Ta-4.6Zr,beta,809,864,13.2,not reported,not reported,298,not reported
+
+
