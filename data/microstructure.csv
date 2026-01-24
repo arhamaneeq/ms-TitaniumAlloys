@@ -1,0 +1,22 @@
+alloy_id                   , grain_size_um, phases_reported, shape   , vol_fr, phase_id_method
+T6A4V_ar_A                 ,              , alpha          ,         ,       , Not reported
+T6A4V_93060AC              ,         0.62 , alpha          , Acicular,       , Not reported
+T6A4V_96030AC              ,              , alpha          ,         ,       , Not reported
+T6A4V_ar_B                 ,              , alpha          ,         ,       , Not reported
+T6A4V_91030WQ_580300AC     ,         0.025, alpha          , Lamellar,       , Not reported
+T6A4VO_925240FC            ,              , alpha          , Acicular,       , Not reported
+T6A4VO_955120WQ_550300AC   ,              , alpha          , Acicular,       , Not reported
+T6C5M5V4A_800120AC_600720AC,         0.034, alpha          , Acicular,  69.72, Not reported
+T6C5M5V4A_800120AC_550720AC,              , alpha          ,         ,       , Not reported
+T6C5M5V4A_800120AC_450720AC,         0.020, alpha          , Acicular,  30.36, Not reported
+T6M5V3A2F_83030WQ          ,              , alpha          ,         ,       , Not reported
+T6M5V3A2F_83030WQ_470240AC ,         0.037, alpha          , Acicular,       , Not reported
+Ti542_BF_85060WQ           ,              , alpha          ,         ,       , Not reported
+Ti542_BF_85060WQ_510240AC  ,         0.080, alpha          , Lamellar,       , Not reported
+Ti55511_AM650              ,         0.150, alpha          , Acicular,   2   , Not reported
+Ti55511_AM750              ,         0.100, alpha          , Acicular,  43   , Not reported
+T2C4Z5A_BF_92060AC,0.313,alpha-p,Lamellar,52.4, Not reported
+T2C4Z5A_BF_92060WQ,0.020,alpha-p,Lamellar,58.7, Not reported
+Ti6242_SPSs,0,alpha-p,,,Not reported
+Ti6242_SPSs75,0.0197,alpha-p, Lath,,Not reported
+T6A4V_ar_C,,alpha-p,,,Not reported
