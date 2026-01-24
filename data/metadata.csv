@@ -33,6 +33,7 @@ Ti64_TiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,L
 Ti64_TiB_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,In-situ Synthesis,Not reported
 Ti64_SiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Hot Pressing (15% Vol),Not reported
 Ti64_CNT_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Powder Metallurgy,Not reported
+<<<<<<< HEAD
 Ti-6242S,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Stabilized,Not reported
 IMI_834,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + 1298K 120 min Heat Treated,Not reported
 Ti-1100,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Rolled + Heat Treated,Not reported
@@ -51,3 +52,10 @@ Ti603_HT1,https://doi.org/10.1007/s11665-024-10079-4,Journal,Text/Microstructure
 Ti603_HT2,https://doi.org/10.1007/s11665-024-10079-4,Journal,Text/Microstructure,1173K 30 min Sol + 853K 180 min Age,Not reported
 CP-Ti_RR2.8,https://doi.org/10.3390/ma11071088,Journal,Section 2.1,Recrystallized (2.8 um grain size),Not reported
 CP-Ti_RR21.3,https://doi.org/10.3390/ma11071088,Journal,Section 2.1,Recrystallized (21.3 um grain size),Not reported
+=======
+Ti_13Nb_13Zr,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-type biomedical alloy (solution treated),Not reported
+Ti_20Nb_10Zr_5Ta,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-type biomedical alloy (solution treated),Not reported
+Ti_29Nb_13Ta_4.6Zr,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated),Not reported
+Ti_15V_3Cr_3Al_3Sn,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated + aging),Not reported
+Ti_15Mo_3Al_3Nb_0.2Si,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated),Not reported
+>>>>>>> 543d1a3ccf2c1b9389fdbe28bdd0cd08d6293fb0

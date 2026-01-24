@@ -27,6 +27,7 @@ Ti-6242S,Near-alpha,900,970,12,,,293,
 BT 36,Near-alpha,960,1050,10,,,293,
 Ti-6Al-4V,Alpha+Beta,880,950,14,,,293,
 Ti-60 (High Temp),Near-alpha,560,680,19,,,873,
+<<<<<<< HEAD
 IMI 834,Near-alpha,950,1060,9,,,293,
 Ti-1100,Near-alpha,920,1000,10,,,293,
 Ti-60,Near-alpha,955,1010,18,,,293,
@@ -46,4 +47,12 @@ Ti603_HT1,Alpha+Beta,,,,"Ductile",Fracture,293,
 Ti603_HT2,Alpha+Beta,,,,"Ductile",Fracture,293,
 CP-Ti_RR2.8,Alpha,,,,"Hall-Petch",Behavior,293,
 CP-Ti_RR21.3,Alpha,,,,"Hall-Petch",Behavior,293,
+=======
+Ti_13Nb_13Zr,beta,,,,,,,
+Ti_20Nb_10Zr_5Ta,beta,,,,,,,
+Ti_29Nb_13Ta_4.6Zr,metastable-beta,,,,,,,
+Ti_15V_3Cr_3Al_3Sn,metastable-beta,770,790,22,95,Rockwell B,298,
+Ti_15Mo_3Al_3Nb_0.2Si,metastable-beta,,,,,,,
+
+>>>>>>> 543d1a3ccf2c1b9389fdbe28bdd0cd08d6293fb0
 

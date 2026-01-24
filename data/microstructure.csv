@@ -49,3 +49,8 @@ CP-Ti_RR2.8,2.8,Alpha,Equiaxed,,EBSD
 CP-Ti_RR9.8,9.8,Alpha,Equiaxed,,EBSD
 CP-Ti_RR11.7,11.7,Alpha,Equiaxed,,EBSD
 CP-Ti_RR21.3,21.3,Alpha,Equiaxed,,EBSD
+Ti_13Nb_13Zr               ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_20Nb_10Zr_5Ta           ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_29Nb_13Ta_4.6Zr         ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_15V_3Cr_3Al_3Sn         ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti_15Mo_3Al_3Nb_0.2Si      ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
