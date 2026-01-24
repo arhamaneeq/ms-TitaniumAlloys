@@ -152,6 +152,27 @@ Ti_15Mo_3Al_3Nb_0.2Si,Mo,15
 Ti_15Mo_3Al_3Nb_0.2Si,Al,3
 Ti_15Mo_3Al_3Nb_0.2Si,Nb,3
 Ti_15Mo_3Al_3Nb_0.2Si,Si,0.2
+Ti-6Al-4V,Ti,90
+Ti-6Al-4V,Al,6
+Ti-6Al-4V,V,4
 
+Ti-6242S,Ti,85.9
+Ti-6242S,Al,6
+Ti-6242S,Zr,4
+Ti-6242S,Sn,2
+Ti-6242S,Mo,2
+Ti-6242S,Si,0.1
+
+Ti-17,Ti,87
+Ti-17,Al,5
+Ti-17,Mo,4
+Ti-17,Cr,4
+Ti-17,Sn,2
+
+TC11,Ti,86.5
+TC11,Al,6.5
+TC11,Mo,1
+TC11,V,2
+TC11,Sn,4
 
 
