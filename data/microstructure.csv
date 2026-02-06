@@ -54,3 +54,34 @@ Ti_20Nb_10Zr_5Ta           ,              , beta           , Equiaxed / Recrysta
 Ti_29Nb_13Ta_4.6Zr         ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
 Ti_15V_3Cr_3Al_3Sn         ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
 Ti_15Mo_3Al_3Nb_0.2Si      ,              , beta           , Equiaxed / Recrystallized ,       , Not reported
+Ti6242_syn01,,Alpha + Beta,Equiaxed,,Synthetic
+Ti6242_syn02,0.80,Alpha + Beta,Equiaxed,,Synthetic
+Ti6242_syn03,0.60,Alpha + Beta,Bimodal,,Synthetic
+Ti6242_syn04,0.45,Alpha + Beta,Bimodal,,Synthetic
+Ti6242_syn05,0.30,Alpha + Beta,Lamellar,,Synthetic
+Ti6242_syn06,0.10,alpha-p,Lath,,Synthetic
+Ti6242_syn07,0.035,alpha-p,Lath,,Synthetic
+Ti6242_syn08,0.020,alpha-p,Lath,,Synthetic
+NearAlpha_syn01,,Primary Alpha + Transformed Beta,Bimodal,,Synthetic
+NearAlpha_syn02,4.5,Primary Alpha,Equiaxed,,Synthetic
+NearAlpha_syn03,3.2,Primary Alpha,Equiaxed,,Synthetic
+NearAlpha_syn04,2.5,Primary Alpha + Secondary Alpha,Bimodal,,Synthetic
+NearAlpha_syn05,5.0,Alpha,Bimodal,,Synthetic
+NearAlpha_syn06,6.5,Alpha,Coarsened / Over-aged,,Synthetic
+Beta_syn01,15,beta,Equiaxed / Recrystallized,,Synthetic
+Beta_syn02,12,beta,Equiaxed / Recrystallized,,Synthetic
+Beta_syn03,10,beta,Equiaxed / Recrystallized,,Synthetic
+
+Beta_syn04,6,beta,Equiaxed,,Synthetic
+Beta_syn05,5,beta,Equiaxed,,Synthetic
+Beta_syn06,4,beta,Equiaxed,,Synthetic
+
+Beta_syn07,3,beta,Omega-containing,,Synthetic
+Beta_syn08,2.5,beta,Omega-containing,,Synthetic
+Beta_syn09,2,beta,Omega-containing,,Synthetic
+AM_syn01,0.80,alpha_prime,Martensitic / Columnar,,Synthetic
+AM_syn02,0.70,alpha_prime,Martensitic / Columnar,,Synthetic
+AM_syn03,0.60,alpha_prime,Martensitic / Columnar,,Synthetic
+AM_syn04,2.50,Alpha + Beta,Equiaxed / HIPed,,Synthetic
+AM_syn05,0.55,Alpha + Beta,Refined / Aged,,Synthetic
+AM_syn06,1.80,Alpha + Beta,Coarsened / Over-aged,,Synthetic

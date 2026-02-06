@@ -1,25 +1,25 @@
-alloy_id                   , DOI                                       , source_type, data_location, processing_history                                              , test_standard
-T6A4V_ar_A                 , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , As Received                                                     , Not reported
-T6A4V_93060AC              , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 930K 60 min Air Cooled                                          , Not reported
-T6A4V_96030AC              , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 960K 30 min Air Cooled                                          , Not reported
-T6A4V_ar_B                 , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , As Received                                                     , Not reported
-T6A4V_91030WQ_580300AC     , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 910K 30 min Water Quenched + 580K 300 min Air cooled            , Not reported
-T6A4VO_925240FC            , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 925K 240 min Furnace Cooled                                     , Not reported
-T6A4VO_955120WQ_550300AC   , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 955K 120 min Water Quenched + 550K 300 min Air cooled           , Not reported
-T6C5M5V4A_800120AC_600720AC, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 800K 120 min Air cooled + 600K 720 min Air cooled               , Not reported
-T6C5M5V4A_800120AC_550720AC, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 800K 120 min Air cooled + 550K 720 min Air cooled               , Not reported
-T6C5M5V4A_800120AC_450720AC, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 800K 120 min Air cooled + 450K 720 min Air cooled               , Not reported
-T6M5V3A2F_83030WQ          , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 830K 30 min Water Quenched                                      , Not reported
-T6M5V3A2F_83030WQ_470240AC , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , 380K 30 min Water Quenched + 470K 240 min Air cooled            , Not reported
-Ti542_BF_85060WQ           , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , β-forging + 850K 60 min Water Quenched                          , Not reported
-Ti542_BF_85060WQ_510240AC  , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1       , β-forging + 850K 60 min Water Quenched + 510K 240 min Air cooled, Not reported
-Ti55511_AM650, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table1, Additively manufactured at 650 deg C, Not reported
-Ti55511_AM750, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table1, Additively manufactured at 750 deg C, Not reported
-T2C4Z5A_BF_92060AC, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2, β-forging + 920K 60 min Air cooled, Not reported
-T2C4Z5A_BF_92060WQ, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2, β-forging + 920K 60 min Water Quenched, Not reported
-Ti6242_SPSs, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2, SPS Sintering, Not reported
-Ti6242_SPSs75, https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2, SPS Sintering + 75% plastic deformation, Not reported
-T6A4V_ar_C,https://doi.org/10.1016/j.jmrt.2024.12.241, Journal, Table2,As Received, Not reported
+alloy_id,DOI,source_type,data_location,processing_history,test_standard
+T6A4V_ar_A,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,As Received,Not reported
+T6A4V_93060AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,930K 60 min Air Cooled,Not reported
+T6A4V_96030AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,960K 30 min Air Cooled,Not reported
+T6A4V_ar_B,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,As Received,Not reported
+T6A4V_91030WQ_580300AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,910K 30 min Water Quenched + 580K 300 min Air cooled,Not reported
+T6A4VO_925240FC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,925K 240 min Furnace Cooled,Not reported
+T6A4VO_955120WQ_550300AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,955K 120 min Water Quenched + 550K 300 min Air cooled,Not reported
+T6C5M5V4A_800120AC_600720AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,800K 120 min Air cooled + 600K 720 min Air cooled,Not reported
+T6C5M5V4A_800120AC_550720AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,800K 120 min Air cooled + 550K 720 min Air cooled,Not reported
+T6C5M5V4A_800120AC_450720AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,800K 120 min Air cooled + 450K 720 min Air cooled,Not reported
+T6M5V3A2F_83030WQ,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,830K 30 min Water Quenched,Not reported
+T6M5V3A2F_83030WQ_470240AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,380K 30 min Water Quenched + 470K 240 min Air cooled,Not reported
+Ti542_BF_85060WQ,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,β-forging + 850K 60 min Water Quenched,Not reported
+Ti542_BF_85060WQ_510240AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,β-forging + 850K 60 min Water Quenched + 510K 240 min Air cooled,Not reported
+Ti55511_AM650,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,Additively manufactured at 650 deg C,Not reported
+Ti55511_AM750,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,Additively manufactured at 750 deg C,Not reported
+T2C4Z5A_BF_92060AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-forging + 920K 60 min Air cooled,Not reported
+T2C4Z5A_BF_92060WQ,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-forging + 920K 60 min Water Quenched,Not reported
+Ti6242_SPSs,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,SPS Sintering,Not reported
+Ti6242_SPSs75,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,SPS Sintering + 75% plastic deformation,Not reported
+T6A4V_ar_C,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,As Received,Not reported
 Ti-6242S,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Stabilized,Not reported
 IMI_834,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + 1298K 120 min Heat Treated,Not reported
 Ti-1100,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Rolled + Heat Treated,Not reported
@@ -33,29 +33,54 @@ Ti64_TiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,L
 Ti64_TiB_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,In-situ Synthesis,Not reported
 Ti64_SiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Hot Pressing (15% Vol),Not reported
 Ti64_CNT_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Powder Metallurgy,Not reported
-<<<<<<< HEAD
-Ti-6242S,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Stabilized,Not reported
-IMI_834,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + 1298K 120 min Heat Treated,Not reported
-Ti-1100,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Rolled + Heat Treated,Not reported
-BT_36,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Heat Treated,Not reported
-Ti-60,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged (Bimodal Microstructure),Not reported
-Ti-60_HighTemp,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table II,Heat Treated at 873K,Not reported
-Ti-11,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I,Not specified,Not reported
-IMI_685,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I,Not specified,Not reported
-TC4_Ti64,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table II / Table III,Standard Rolling / As Received,Not reported
-Ti64_TiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Laser Cladding / LMD (5-20% Vol),Not reported
-Ti64_TiB_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,In-situ Synthesis,Not reported
-Ti64_SiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Hot Pressing (15% Vol),Not reported
-Ti64_CNT_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Powder Metallurgy,Not reported
-Ti603_HR,https://doi.org/10.1007/s11665-024-10079-4,Journal,Text/Microstructure,Hot Rolled,Not reported
-Ti603_HT1,https://doi.org/10.1007/s11665-024-10079-4,Journal,Text/Microstructure,1013K 60 min Annealed,Not reported
-Ti603_HT2,https://doi.org/10.1007/s11665-024-10079-4,Journal,Text/Microstructure,1173K 30 min Sol + 853K 180 min Age,Not reported
-CP-Ti_RR2.8,https://doi.org/10.3390/ma11071088,Journal,Section 2.1,Recrystallized (2.8 um grain size),Not reported
-CP-Ti_RR21.3,https://doi.org/10.3390/ma11071088,Journal,Section 2.1,Recrystallized (21.3 um grain size),Not reported
-=======
 Ti_13Nb_13Zr,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-type biomedical alloy (solution treated),Not reported
 Ti_20Nb_10Zr_5Ta,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-type biomedical alloy (solution treated),Not reported
 Ti_29Nb_13Ta_4.6Zr,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated),Not reported
 Ti_15V_3Cr_3Al_3Sn,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated + aging),Not reported
 Ti_15Mo_3Al_3Nb_0.2Si,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated),Not reported
->>>>>>> 543d1a3ccf2c1b9389fdbe28bdd0cd08d6293fb0
+Ti64_syn01,ChatGPT (synthetic),LLM,Synthetic,As Received,Synthetic
+Ti64_syn02,ChatGPT (synthetic),LLM,Synthetic,920K 30 min AC,Synthetic
+Ti64_syn03,ChatGPT (synthetic),LLM,Synthetic,940K 45 min AC,Synthetic
+Ti64_syn04,ChatGPT (synthetic),LLM,Synthetic,960K 30 min AC,Synthetic
+Ti64_syn05,ChatGPT (synthetic),LLM,Synthetic,980K 20 min AC,Synthetic
+Ti64_syn06,ChatGPT (synthetic),LLM,Synthetic,920K 30 min WQ + 550K 120 min AC,Synthetic
+Ti64_syn07,ChatGPT (synthetic),LLM,Synthetic,950K 30 min WQ + 600K 240 min AC,Synthetic
+Ti64_syn08,ChatGPT (synthetic),LLM,Synthetic,β annealed + AC,Synthetic
+Ti64_syn09,ChatGPT (synthetic),LLM,Synthetic,β annealed + WQ,Synthetic
+Ti64_syn10,ChatGPT (synthetic),LLM,Synthetic,β annealed + WQ + aging,Synthetic
+Ti64_syn11,ChatGPT (synthetic),LLM,Synthetic,Hot rolled + AC,Synthetic
+Ti64_syn12,ChatGPT (synthetic),LLM,Synthetic,Hot rolled + STA,Synthetic
+
+Ti6242_syn01,ChatGPT (synthetic),LLM,Synthetic,Forged + stabilized,Synthetic
+Ti6242_syn02,ChatGPT (synthetic),LLM,Synthetic,930K 60 min AC,Synthetic
+Ti6242_syn03,ChatGPT (synthetic),LLM,Synthetic,960K 30 min AC,Synthetic
+Ti6242_syn04,ChatGPT (synthetic),LLM,Synthetic,980K 20 min AC,Synthetic
+Ti6242_syn05,ChatGPT (synthetic),LLM,Synthetic,920K 30 min WQ + aging,Synthetic
+Ti6242_syn06,ChatGPT (synthetic),LLM,Synthetic,SPS sintered,Synthetic
+Ti6242_syn07,ChatGPT (synthetic),LLM,Synthetic,SPS + 50% deformation,Synthetic
+Ti6242_syn08,ChatGPT (synthetic),LLM,Synthetic,SPS + 75% deformation,Synthetic
+
+NearAlpha_syn01,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
+NearAlpha_syn02,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
+NearAlpha_syn03,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
+NearAlpha_syn04,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
+NearAlpha_syn05,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
+NearAlpha_syn06,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
+
+Beta_syn01,ChatGPT (synthetic),LLM,Synthetic,Solution treated,Synthetic
+Beta_syn02,ChatGPT (synthetic),LLM,Synthetic,Solution treated,Synthetic
+Beta_syn03,ChatGPT (synthetic),LLM,Synthetic,Solution treated,Synthetic
+Beta_syn04,ChatGPT (synthetic),LLM,Synthetic,Solution treated + aging,Synthetic
+Beta_syn05,ChatGPT (synthetic),LLM,Synthetic,Solution treated + aging,Synthetic
+Beta_syn06,ChatGPT (synthetic),LLM,Synthetic,Solution treated + aging,Synthetic
+Beta_syn07,ChatGPT (synthetic),LLM,Synthetic,Solution treated + ω,Synthetic
+Beta_syn08,ChatGPT (synthetic),LLM,Synthetic,Solution treated + ω,Synthetic
+Beta_syn09,ChatGPT (synthetic),LLM,Synthetic,Solution treated + ω,Synthetic
+
+AM_syn01,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured 650C,Synthetic
+AM_syn02,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured 700C,Synthetic
+AM_syn03,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured 750C,Synthetic
+AM_syn04,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured + HIP,Synthetic
+AM_syn05,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured + aging,Synthetic
+AM_syn06,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured + aging,Synthetic
+

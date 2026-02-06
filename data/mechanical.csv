@@ -27,7 +27,6 @@ Ti-6242S,Near-alpha,900,970,12,,,293,
 BT 36,Near-alpha,960,1050,10,,,293,
 Ti-6Al-4V,alpha+beta,880,950,14,,,293,
 Ti-60 (High Temp),Near-alpha,560,680,19,,,873,
-<<<<<<< HEAD
 IMI 834,Near-alpha,950,1060,9,,,293,
 Ti-1100,Near-alpha,920,1000,10,,,293,
 Ti-60,Near-alpha,955,1010,18,,,293,
@@ -47,15 +46,11 @@ Ti603_HT1,alpha+beta,,,,"Ductile",Fracture,293,
 Ti603_HT2,alpha+beta,,,,"Ductile",Fracture,293,
 CP-Ti_RR2.8,Alpha,,,,"Hall-Petch",Behavior,293,
 CP-Ti_RR21.3,Alpha,,,,"Hall-Petch",Behavior,293,
-=======
 Ti_13Nb_13Zr,beta,,,,,,,
 Ti_20Nb_10Zr_5Ta,beta,,,,,,,
 Ti_29Nb_13Ta_4.6Zr,metastable-beta,,,,,,,
 Ti_15V_3Cr_3Al_3Sn,metastable-beta,770,790,22,95,Rockwell B,298,
-Ti_15Mo_3Al_3Nb_0.2Si,metastable-beta,,,,,,,
-
->>>>>>> 543d1a3ccf2c1b9389fdbe28bdd0cd08d6293fb0
-
+Ti_15Mo_3Al_3Nb_0.2Si,metastable-beta,,,,,,, 
 TC11_950C,alpha+beta,not reported,1095,11.8,not reported,not reported,298,not reported
 TC11_1000C,alpha+beta,not reported,1104,8.4,not reported,not reported,298,not reported
 Ti-6Al-4V_b,alpha+beta,915,965,19,not reported,not reported,298,8e-4
@@ -68,5 +63,36 @@ Ti-15Mo,beta,544,874,82,not reported,not reported,298,not reported
 Ti-15Mo-5Zr-3Al,beta,838–1060,852–1100,18–25,not reported,not reported,298,not reported
 Ti-35.3Nb-5.1Ta-7.1Zr,beta,547.1,596.7,19.0,not reported,not reported,298,not reported
 Ti-29Nb-13Ta-4.6Zr,beta,809,864,13.2,not reported,not reported,298,not reported
+Ti6242_syn01,Near-alpha,910,990,13.5,,,293,
+Ti6242_syn02,Near-alpha,940,1020,12.5,,,293,
+Ti6242_syn03,Near-alpha,980,1050,11.5,,,293,
+Ti6242_syn04,Near-alpha,1020,1085,10.5,,,293,
+Ti6242_syn05,Near-alpha,1080,1150,9.2,,,293,
+Ti6242_syn06,alpha-p,880,960,14.0,,,293,
+Ti6242_syn07,alpha-p,1040,1120,9.8,,,293,
+Ti6242_syn08,alpha-p,1180,1260,8.0,,,293,
 
+NearAlpha_syn01,Near-alpha,930,1010,14.0,,,293,
+NearAlpha_syn02,Near-alpha,970,1050,12.5,,,293,
+NearAlpha_syn03,Near-alpha,1010,1090,11.2,,,293,
+NearAlpha_syn04,Near-alpha,1080,1160,9.5,,,293,
+NearAlpha_syn05,Near-alpha,960,1040,13.8,,,293,
+NearAlpha_syn06,Near-alpha,900,980,15.5,,,293,
 
+Beta_syn01,beta,600,760,32,,,293,
+Beta_syn02,beta,650,800,30,,,293,
+Beta_syn03,beta,700,840,28,,,293,
+
+Beta_syn04,metastable-beta,820,930,22,,,293,
+Beta_syn05,metastable-beta,900,1000,18,,,293,
+Beta_syn06,metastable-beta,980,1080,15,,,293,
+
+Beta_syn07,metastable-beta,1050,1140,12,,,293,
+Beta_syn08,metastable-beta,1120,1200,10,,,293,
+Beta_syn09,metastable-beta,1180,1260,8,,,293,
+AM_syn01,alpha+beta,980,1060,9.5,,,293,
+AM_syn02,alpha+beta,1020,1100,8.8,,,293,
+AM_syn03,alpha+beta,1050,1130,8.0,,,293,
+AM_syn04,alpha+beta,920,1000,14.5,,,293,
+AM_syn05,alpha+beta,1080,1160,7.5,,,293,
+AM_syn06,alpha+beta,950,1030,12.0,,,293,
