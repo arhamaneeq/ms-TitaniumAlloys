@@ -1,86 +1,210 @@
+alloy_id                      , DOI                                       , source_type, data_location       , processing_history                                              , test_standard
+T6A4V_ar_A                    , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , As Received                                                     , Not reported
+T6A4V_93060AC                 , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 930K 60 min Air Cooled                                          , Not reported
+T6A4V_96030AC                 , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 960K 30 min Air Cooled                                          , Not reported
+T6A4V_ar_B                    , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , As Received                                                     , Not reported
+T6A4V_91030WQ_580300AC        , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 910K 30 min Water Quenched + 580K 300 min Air cooled            , Not reported
+T6A4VO_925240FC               , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 925K 240 min Furnace Cooled                                     , Not reported
+T6A4VO_955120WQ_550300AC      , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 955K 120 min Water Quenched + 550K 300 min Air cooled           , Not reported
+T6C5M5V4A_800120AC_600720AC   , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 800K 120 min Air cooled + 600K 720 min Air cooled               , Not reported
+T6C5M5V4A_800120AC_550720AC   , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 800K 120 min Air cooled + 550K 720 min Air cooled               , Not reported
+T6C5M5V4A_800120AC_450720AC   , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 800K 120 min Air cooled + 450K 720 min Air cooled               , Not reported
+T6M5V3A2F_83030WQ             , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 830K 30 min Water Quenched                                      , Not reported
+T6M5V3A2F_83030WQ_470240AC    , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , 380K 30 min Water Quenched + 470K 240 min Air cooled            , Not reported
+Ti542_BF_85060WQ              , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , β-forging + 850K 60 min Water Quenched                          , Not reported
+Ti542_BF_85060WQ_510240AC     , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , β-forging + 850K 60 min Water Quenched + 510K 240 min Air cooled, Not reported
+Ti55511_AM650                 , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , Additively manufactured at 650 deg C                            , Not reported
+Ti55511_AM750                 , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table1              , Additively manufactured at 750 deg C                            , Not reported
+T2C4Z5A_BF_92060AC            , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , β-forging + 920K 60 min Air cooled                              , Not reported
+T2C4Z5A_BF_92060WQ            , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , β-forging + 920K 60 min Water Quenched                          , Not reported
+Ti6242_SPSs                   , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , SPS Sintering                                                   , Not reported
+Ti6242_SPSs75                 , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , SPS Sintering + 75% plastic deformation                         , Not reported
+T6A4V_ar_C                    , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , As Received                                                     , Not reported
+Ti-6242S                      , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table I / Table II  , Forged + Stabilized                                             , Not reported
+IMI_834                       , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table I / Table II  , Forged + 1298K 120 min Heat Treated                             , Not reported
+Ti-1100                       , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table I / Table II  , Rolled + Heat Treated                                           , Not reported
+BT_36                         , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table I / Table II  , Forged + Heat Treated                                           , Not reported
+Ti-60                         , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table I / Table II  , Forged (Bimodal Microstructure)                                 , Not reported
+Ti-60_HighTemp                , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table II            , Heat Treated at 873K                                            , Not reported
+Ti-11                         , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table I             , Not specified                                                   , Not reported
+IMI_685                       , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table I             , Not specified                                                   , Not reported
+TC4_Ti64                      , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table II / Table III, Standard Rolling / As Received                                  , Not reported
+Ti64_TiC_Composite            , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table III           , Laser Cladding / LMD (5-20% Vol)                                , Not reported
+Ti64_TiB_Composite            , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table III           , In-situ Synthesis                                               , Not reported
+Ti64_SiC_Composite            , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table III           , Hot Pressing (15% Vol)                                          , Not reported
+Ti64_CNT_Composite            , https://doi.org/10.1108/AEAT-04-2019-0086 , Journal    , Table III           , Powder Metallurgy                                               , Not reported
+Ti_13Nb_13Zr                  , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , β-type biomedical alloy (solution treated)                      , Not reported
+Ti_20Nb_10Zr_5Ta              , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , β-type biomedical alloy (solution treated)                      , Not reported
+Ti_29Nb_13Ta_4.6Zr            , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , Metastable β alloy (solution treated)                           , Not reported
+Ti_15V_3Cr_3Al_3Sn            , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , Metastable β alloy (solution treated + aging)                   , Not reported
+Ti_15Mo_3Al_3Nb_0.2Si         , https://doi.org/10.1016/j.jmrt.2024.12.241, Journal    , Table2              , Metastable β alloy (solution treated)                           , Not reported
+Ti64_syn01                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , As Received                                                     , Synthetic
+Ti64_syn02                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , 920K 30 min AC                                                  , Synthetic
+Ti64_syn03                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , 940K 45 min AC                                                  , Synthetic
+Ti64_syn04                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , 960K 30 min AC                                                  , Synthetic
+Ti64_syn05                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , 980K 20 min AC                                                  , Synthetic
+Ti64_syn06                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , 920K 30 min WQ + 550K 120 min AC                                , Synthetic
+Ti64_syn07                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , 950K 30 min WQ + 600K 240 min AC                                , Synthetic
+Ti64_syn08                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , β annealed + AC                                                 , Synthetic
+Ti64_syn09                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , β annealed + WQ                                                 , Synthetic
+Ti64_syn10                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , β annealed + WQ + aging                                         , Synthetic
+Ti64_syn11                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Hot rolled + AC                                                 , Synthetic
+Ti64_syn12                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Hot rolled + STA                                                , Synthetic
+
+Ti6242_syn01                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , Forged + stabilized                                             , Synthetic
+Ti6242_syn02                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , 930K 60 min AC                                                  , Synthetic
+Ti6242_syn03                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , 960K 30 min AC                                                  , Synthetic
+Ti6242_syn04                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , 980K 20 min AC                                                  , Synthetic
+Ti6242_syn05                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , 920K 30 min WQ + aging                                          , Synthetic
+Ti6242_syn06                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , SPS sintered                                                    , Synthetic
+Ti6242_syn07                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , SPS + 50% deformation                                           , Synthetic
+Ti6242_syn08                  , ChatGPT (synthetic)                       , LLM        , Synthetic           , SPS + 75% deformation                                           , Synthetic
+
+NearAlpha_syn01               , ChatGPT (synthetic)                       , LLM        , Synthetic           , Forged + HT                                                     , Synthetic
+NearAlpha_syn02               , ChatGPT (synthetic)                       , LLM        , Synthetic           , Forged + HT                                                     , Synthetic
+NearAlpha_syn03               , ChatGPT (synthetic)                       , LLM        , Synthetic           , Forged + HT                                                     , Synthetic
+NearAlpha_syn04               , ChatGPT (synthetic)                       , LLM        , Synthetic           , Forged + HT                                                     , Synthetic
+NearAlpha_syn05               , ChatGPT (synthetic)                       , LLM        , Synthetic           , Forged + HT                                                     , Synthetic
+NearAlpha_syn06               , ChatGPT (synthetic)                       , LLM        , Synthetic           , Forged + HT                                                     , Synthetic
+
+Beta_syn01                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated                                                , Synthetic
+Beta_syn02                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated                                                , Synthetic
+Beta_syn03                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated                                                , Synthetic
+Beta_syn04                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated + aging                                        , Synthetic
+Beta_syn05                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated + aging                                        , Synthetic
+Beta_syn06                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated + aging                                        , Synthetic
+Beta_syn07                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated + ω                                            , Synthetic
+Beta_syn08                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated + ω                                            , Synthetic
+Beta_syn09                    , ChatGPT (synthetic)                       , LLM        , Synthetic           , Solution treated + ω                                            , Synthetic
+
+AM_syn01                      , ChatGPT (synthetic)                       , LLM        , Synthetic           , Additively manufactured 650C                                    , Synthetic
+AM_syn02                      , ChatGPT (synthetic)                       , LLM        , Synthetic           , Additively manufactured 700C                                    , Synthetic
+AM_syn03                      , ChatGPT (synthetic)                       , LLM        , Synthetic           , Additively manufactured 750C                                    , Synthetic
+AM_syn04                      , ChatGPT (synthetic)                       , LLM        , Synthetic           , Additively manufactured + HIP                                   , Synthetic
+AM_syn05                      , ChatGPT (synthetic)                       , LLM        , Synthetic           , Additively manufactured + aging                                 , Synthetic
+AM_syn06                      , ChatGPT (synthetic)                       , LLM        , Synthetic           , Additively manufactured + aging                                 , Synthetic
+Ti6A4V_Plex_92560AC           ,                                           , LLM        , Synthetic_Table1    , As Received + 925K 60min Air Cooled                             , Not reported
+Ti6A4V_Plex_95530WQ           ,                                           , LLM        , Synthetic_Table1    , 955K 30min Water Quenched                                       , Not reported
+Ti6A4V_Plex_980120AC_520300AC ,                                           , LLM        , Synthetic_Table1    , 980K 120min Air Cooled + 520K 300min Air Cooled                 , Not reported
+Ti542_Plex_91060WQ            ,                                           , LLM        , Synthetic_Table1    , β-forging + 910K 60min Water Quenched                           , Not reported
+Ti542_Plex_91060WQ_485240AC   ,                                           , LLM        , Synthetic_Table1    , β-forging + 910K 60min Water Quenched + 485K 240min Air Cooled  , Not reported
+Ti5553_AM700                  ,                                           , LLM        , Synthetic_Table1    , Additively manufactured 700°C                                   , Not reported
+Ti5553_AM750                  ,                                           , LLM        , Synthetic_Table1    , Additively manufactured 750°C                                   , Not reported
+TC5M5V4_Plex_830120AC         ,                                           , LLM        , Synthetic_Table1    , 830K 120min Air Cooled                                          , Not reported
+TC5M5V4_Plex_830120AC_550720AC,                                           , LLM        , Synthetic_Table1    , 830K 120min Air Cooled + 550K 720min Air Cooled                 , Not reported
+TC5M5V4_Plex_830120AC_480720AC,                                           , LLM        , Synthetic_Table1    , 830K 120min Air Cooled + 480K 720min Air Cooled                 , Not reported
+Ti6242_Plex_SPS               ,                                           , LLM        , Synthetic_Table2    , SPS Sintering                                                   , Not reported
+Ti6242_Plex_SPS75             ,                                           , LLM        , Synthetic_Table2    , SPS Sintering + 75% deformation                                 , Not reported
+Ti13Nb13Zr_Plex_ST            ,                                           , LLM        , Synthetic_Table2    , Solution treated β-Ti                                           , Not reported
+Ti20Nb10Zr5Ta_Plex_ST         ,                                           , LLM        , Synthetic_Table2    , Solution treated β-Ti                                           , Not reported
+Ti29Nb13Ta4Zr_Plex_ST         ,                                           , LLM        , Synthetic_Table2    , Solution treated metastable-β                                   , Not reported
+Ti15Mo3Nb_Plex_ST             ,                                           , LLM        , Synthetic_Table2    , Solution treated metastable-β                                   , Not reported
+Ti15V3Cr3Al3Sn_Plex_SA        ,                                           , LLM        , Synthetic_Table2    , Solution treated + Aged metastable-β                            , Not reported
+Ti1100_Plex_HT                ,                                           , LLM        , Synthetic_Table2    , Rolled + Heat Treated                                           , Near-alpha
+BT36_Plex_FHT                 ,                                           , LLM        , Synthetic_Table2    , Forged + Heat Treated                                           , Near-alpha
+IMI834_Plex_1298120HT         ,                                           , LLM        , Synthetic_Table2    , Forged + 1298K 120min HT                                        , Near-alpha
+Ti60_Plex_BM                  ,                                           , LLM        , Synthetic_Table2    , Forged Bimodal microstructure                                   , Near-alpha
+Ti60_Plex_873HT               ,                                           , LLM        , Synthetic_Table2    , Heat Treated 873K                                               , Near-alpha
+Ti64_TiC10_Plex               ,                                           , LLM        , Synthetic_Table3    , Laser Cladding 10%TiC vol                                       , Composite
+Ti64_TiB15_Plex               ,                                           , LLM        , Synthetic_Table3    , In-situ TiB whiskers 15%vol                                     , Composite
+Ti64_SiC12_Plex               ,                                           , LLM        , Synthetic_Table3    , Hot Press 12%SiC vol                                            , Composite
+Ti64_CNT2_Plex                ,                                           , LLM        , Synthetic_Table3    , Powder metallurgy 2% CNT                                        , Composite
+Ti6A2Zr1Mo1V_La2O3_Plex       ,                                           , LLM        , Synthetic_Table3    , Dispersion strengthened La2O3                                   , Composite
+NearAlpha_Y2O3_Plex           ,                                           , LLM        , Synthetic_Table3    , Y2O3 nano-dispersed                                             , Near-alpha
+Ti6A4V_Plex_94060AC           ,                                           , LLM        , Synthetic_Table1    , 940K 60min Air Cooled                                           , Not reported
+Ti6A4V_Plex_975240FC          ,                                           , LLM        , Synthetic_Table1    , 975K 240min Furnace Cooled                                      , Not reported
+Ti6A4V_Plex_920120WQ_535300AC ,                                           , LLM        , Synthetic_Table1    , 920K 120min WQ + 535K 300min AC                                 , Not reported
+Ti542_Plex_87560AC            ,                                           , LLM        , Synthetic_Table1    , β-forging + 875K 60min Air Cooled                               , Not reported
+Ti5553_Plex_650300AC          ,                                           , LLM        , Synthetic_Table1    , AM 650°C + 300min Air Cooled                                    , Not reported
+TC5M5V4_Plex_860120AC_580720AC,                                           , LLM        , Synthetic_Table1    , 860K 120min AC + 580K 720min AC                                 , Not reported
+TC11_Plex_95060WQ             ,                                           , LLM        , Synthetic_Table1    , 950K 60min Water Quenched                                       , Not reported
+TC11_Plex_95060WQ_510240AC    ,                                           , LLM        , Synthetic_Table1    , 950K 60min WQ + 510K 240min AC                                  , Not reported
+Ti6242_Plex_SPS50             ,                                           , LLM        , Synthetic_Table2    , SPS + 50% deformation                                           , Not reported
+Ti13Nb13Zr_Plex_STA           ,                                           , LLM        , Synthetic_Table2    , Solution treated + Aged                                         , Not reported
+Ti15Mo3Al3Nb_Plex             ,                                           , LLM        , Synthetic_Table2    , Solution treated metastable-β                                   , Not reported
+Ti6A4V_Plex_AR2               ,                                           , LLM        , Synthetic_Table1    , As Received                                                     , Not reported
+Ti6A4V_Plex_98530AC           ,                                           , LLM        , Synthetic_Table1    , 985K 30min Air Cooled                                           , Not reported
+Ti6A4V_Plex_945120WQ          ,                                           , LLM        , Synthetic_Table1    , 945K 120min Water Quenched                                      , Not reported
+Ti542_Plex_93060AC_495240AC   ,                                           , LLM        , Synthetic_Table1    , β-forging + 930K 60min AC + 495K 240min AC                      , Not reported
+Ti5553_Plex_725240FC          ,                                           , LLM        , Synthetic_Table1    , AM 725°C + 240min Furnace Cooled                                , Not reported
+TC11_Plex_975120AC            ,                                           , LLM        , Synthetic_Table1    , 975K 120min Air Cooled                                          , Not reported
+TC11_Plex_975120AC_525720AC   ,                                           , LLM        , Synthetic_Table1    , 975K 120min AC + 525K 720min AC                                 , Not reported
+Ti6242_Plex_SPS25             ,                                           , LLM        , Synthetic_Table2    , SPS Sintering + 25% deformation                                 , Not reported
+Ti20Nb10Zr5Ta_Plex_STA        ,                                           , LLM        , Synthetic_Table2    , Solution treated + Aged                                         , Not reported
+Ti29Nb13Ta4Zr_Plex_STA        ,                                           , LLM        , Synthetic_Table2    , Solution treated + Aged                                         , Not reported
+Ti15V3Cr3Al3Sn_Plex_ST        ,                                           , LLM        , Synthetic_Table2    , Solution treated metastable-β                                   , Not reported
+Ti1100_Plex_AR                ,                                           , LLM        , Synthetic_Table2    , As Received                                                     , Near-alpha
+BT36_Plex_AR                  ,                                           , LLM        , Synthetic_Table2    , As Received                                                     , Near-alpha
+IMI834_Plex_AR                ,                                           , LLM        , Synthetic_Table2    , As Received                                                     , Near-alpha
+Ti60_Plex_AR                  ,                                           , LLM        , Synthetic_Table2    , As Received                                                     , Near-alpha
+Ti64_TiC5_Plex                ,                                           , LLM        , Synthetic_Table3    , Laser Cladding 5%TiC vol                                        , Composite
+Ti64_TiB10_Plex               ,                                           , LLM        , Synthetic_Table3    , In-situ TiB whiskers 10%vol                                     , Composite
+Ti64_SiC15_Plex               ,                                           , LLM        , Synthetic_Table3    , Hot Press 15%SiC vol                                            , Composite
+Ti64_CNT1_Plex                ,                                           , LLM        , Synthetic_Table3    , Powder metallurgy 1% CNT                                        , Composite
+Ti6A2Zr1Mo1V_La2O3_Plex2      ,                                           , LLM        , Synthetic_Table3    , Dispersion strengthened La2O3                                   , Composite
+NearAlpha_Y2O3_Plex2          ,                                           , LLM        , Synthetic_Table3    , Y2O3 nano-dispersed                                             , Near-alpha
+Ti6A4V_Plex_91560WQ           ,                                           , LLM        , Synthetic_Table1    , 915K 60min Water Quenched                                       , Not reported
+Ti6A4V_Plex_960240AC          ,                                           , LLM        , Synthetic_Table1    , 960K 240min Air Cooled                                          , Not reported
+Ti542_Plex_895120FC           ,                                           , LLM        , Synthetic_Table1    , β-forging + 895K 120min Furnace Cooled                          , Not reported
 alloy_id,DOI,source_type,data_location,processing_history,test_standard
-T6A4V_ar_A,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,As Received,Not reported
-T6A4V_93060AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,930K 60 min Air Cooled,Not reported
-T6A4V_96030AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,960K 30 min Air Cooled,Not reported
-T6A4V_ar_B,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,As Received,Not reported
-T6A4V_91030WQ_580300AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,910K 30 min Water Quenched + 580K 300 min Air cooled,Not reported
-T6A4VO_925240FC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,925K 240 min Furnace Cooled,Not reported
-T6A4VO_955120WQ_550300AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,955K 120 min Water Quenched + 550K 300 min Air cooled,Not reported
-T6C5M5V4A_800120AC_600720AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,800K 120 min Air cooled + 600K 720 min Air cooled,Not reported
-T6C5M5V4A_800120AC_550720AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,800K 120 min Air cooled + 550K 720 min Air cooled,Not reported
-T6C5M5V4A_800120AC_450720AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,800K 120 min Air cooled + 450K 720 min Air cooled,Not reported
-T6M5V3A2F_83030WQ,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,830K 30 min Water Quenched,Not reported
-T6M5V3A2F_83030WQ_470240AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,380K 30 min Water Quenched + 470K 240 min Air cooled,Not reported
-Ti542_BF_85060WQ,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,β-forging + 850K 60 min Water Quenched,Not reported
-Ti542_BF_85060WQ_510240AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,β-forging + 850K 60 min Water Quenched + 510K 240 min Air cooled,Not reported
-Ti55511_AM650,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,Additively manufactured at 650 deg C,Not reported
-Ti55511_AM750,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table1,Additively manufactured at 750 deg C,Not reported
-T2C4Z5A_BF_92060AC,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-forging + 920K 60 min Air cooled,Not reported
-T2C4Z5A_BF_92060WQ,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-forging + 920K 60 min Water Quenched,Not reported
-Ti6242_SPSs,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,SPS Sintering,Not reported
-Ti6242_SPSs75,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,SPS Sintering + 75% plastic deformation,Not reported
-T6A4V_ar_C,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,As Received,Not reported
-Ti-6242S,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Stabilized,Not reported
-IMI_834,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + 1298K 120 min Heat Treated,Not reported
-Ti-1100,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Rolled + Heat Treated,Not reported
-BT_36,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged + Heat Treated,Not reported
-Ti-60,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I / Table II,Forged (Bimodal Microstructure),Not reported
-Ti-60_HighTemp,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table II,Heat Treated at 873K,Not reported
-Ti-11,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I,Not specified,Not reported
-IMI_685,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table I,Not specified,Not reported
-TC4_Ti64,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table II / Table III,Standard Rolling / As Received,Not reported
-Ti64_TiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Laser Cladding / LMD (5-20% Vol),Not reported
-Ti64_TiB_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,In-situ Synthesis,Not reported
-Ti64_SiC_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Hot Pressing (15% Vol),Not reported
-Ti64_CNT_Composite,https://doi.org/10.1108/AEAT-04-2019-0086,Journal,Table III,Powder Metallurgy,Not reported
-Ti_13Nb_13Zr,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-type biomedical alloy (solution treated),Not reported
-Ti_20Nb_10Zr_5Ta,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,β-type biomedical alloy (solution treated),Not reported
-Ti_29Nb_13Ta_4.6Zr,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated),Not reported
-Ti_15V_3Cr_3Al_3Sn,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated + aging),Not reported
-Ti_15Mo_3Al_3Nb_0.2Si,https://doi.org/10.1016/j.jmrt.2024.12.241,Journal,Table2,Metastable β alloy (solution treated),Not reported
-Ti64_syn01,ChatGPT (synthetic),LLM,Synthetic,As Received,Synthetic
-Ti64_syn02,ChatGPT (synthetic),LLM,Synthetic,920K 30 min AC,Synthetic
-Ti64_syn03,ChatGPT (synthetic),LLM,Synthetic,940K 45 min AC,Synthetic
-Ti64_syn04,ChatGPT (synthetic),LLM,Synthetic,960K 30 min AC,Synthetic
-Ti64_syn05,ChatGPT (synthetic),LLM,Synthetic,980K 20 min AC,Synthetic
-Ti64_syn06,ChatGPT (synthetic),LLM,Synthetic,920K 30 min WQ + 550K 120 min AC,Synthetic
-Ti64_syn07,ChatGPT (synthetic),LLM,Synthetic,950K 30 min WQ + 600K 240 min AC,Synthetic
-Ti64_syn08,ChatGPT (synthetic),LLM,Synthetic,β annealed + AC,Synthetic
-Ti64_syn09,ChatGPT (synthetic),LLM,Synthetic,β annealed + WQ,Synthetic
-Ti64_syn10,ChatGPT (synthetic),LLM,Synthetic,β annealed + WQ + aging,Synthetic
-Ti64_syn11,ChatGPT (synthetic),LLM,Synthetic,Hot rolled + AC,Synthetic
-Ti64_syn12,ChatGPT (synthetic),LLM,Synthetic,Hot rolled + STA,Synthetic
-
-Ti6242_syn01,ChatGPT (synthetic),LLM,Synthetic,Forged + stabilized,Synthetic
-Ti6242_syn02,ChatGPT (synthetic),LLM,Synthetic,930K 60 min AC,Synthetic
-Ti6242_syn03,ChatGPT (synthetic),LLM,Synthetic,960K 30 min AC,Synthetic
-Ti6242_syn04,ChatGPT (synthetic),LLM,Synthetic,980K 20 min AC,Synthetic
-Ti6242_syn05,ChatGPT (synthetic),LLM,Synthetic,920K 30 min WQ + aging,Synthetic
-Ti6242_syn06,ChatGPT (synthetic),LLM,Synthetic,SPS sintered,Synthetic
-Ti6242_syn07,ChatGPT (synthetic),LLM,Synthetic,SPS + 50% deformation,Synthetic
-Ti6242_syn08,ChatGPT (synthetic),LLM,Synthetic,SPS + 75% deformation,Synthetic
-
-NearAlpha_syn01,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
-NearAlpha_syn02,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
-NearAlpha_syn03,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
-NearAlpha_syn04,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
-NearAlpha_syn05,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
-NearAlpha_syn06,ChatGPT (synthetic),LLM,Synthetic,Forged + HT,Synthetic
-
-Beta_syn01,ChatGPT (synthetic),LLM,Synthetic,Solution treated,Synthetic
-Beta_syn02,ChatGPT (synthetic),LLM,Synthetic,Solution treated,Synthetic
-Beta_syn03,ChatGPT (synthetic),LLM,Synthetic,Solution treated,Synthetic
-Beta_syn04,ChatGPT (synthetic),LLM,Synthetic,Solution treated + aging,Synthetic
-Beta_syn05,ChatGPT (synthetic),LLM,Synthetic,Solution treated + aging,Synthetic
-Beta_syn06,ChatGPT (synthetic),LLM,Synthetic,Solution treated + aging,Synthetic
-Beta_syn07,ChatGPT (synthetic),LLM,Synthetic,Solution treated + ω,Synthetic
-Beta_syn08,ChatGPT (synthetic),LLM,Synthetic,Solution treated + ω,Synthetic
-Beta_syn09,ChatGPT (synthetic),LLM,Synthetic,Solution treated + ω,Synthetic
-
-AM_syn01,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured 650C,Synthetic
-AM_syn02,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured 700C,Synthetic
-AM_syn03,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured 750C,Synthetic
-AM_syn04,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured + HIP,Synthetic
-AM_syn05,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured + aging,Synthetic
-AM_syn06,ChatGPT (synthetic),LLM,Synthetic,Additively manufactured + aging,Synthetic
+T6A4V_90030WQ_Gem,Gemini,LLM,Synthetic,900K 30 min Water Quenched,ASTM E8
+T6A4V_90060AC_Gem,Gemini,LLM,Synthetic,900K 60 min Air Cooled,ASTM E8
+T6A4V_980120FC_Gem,Gemini,LLM,Synthetic,980K 120 min Furnace Cooled,ASTM E8
+T6A4VO_94060WQ_560240AC_Gem,Gemini,LLM,Synthetic,940K 60 min WQ + 560K 240 min AC,ASTM E8
+T6M5V3A2F_85045WQ_Gem,Gemini,LLM,Synthetic,850K 45 min Water Quenched,ASTM E8
+Ti6242_95060AC_Gem,Gemini,LLM,Synthetic,950K 60 min Air Cooled,ASTM E8
+T6A4V_80030WQ_Gem,Gemini,LLM,Synthetic,800K 30 min Water Quenched,ASTM E8
+T6A4V_85060AC_Gem,Gemini,LLM,Synthetic,850K 60 min Air Cooled,ASTM E8
+T6A4V_105030WQ_Gem,Gemini,LLM,Synthetic,1050K 30 min WQ (Beta Sol.),ASTM E8
+T6A4V_105060FC_Gem,Gemini,LLM,Synthetic,1050K 60 min Furnace Cooled,ASTM E8
+T6A4VO_900120AC_Gem,Gemini,LLM,Synthetic,900K 120 min Air Cooled,ASTM E8
+Ti6242_117360AC_Gem,Gemini,LLM,Synthetic,1173K 60 min Air Cooled,ASTM E8
+Ti6242_873120AC_Gem,Gemini,LLM,Synthetic,873K 120 min AC (Stress Relieved),ASTM E8
+BT36_120030AC_Gem,Gemini,LLM,Synthetic,1200K 30 min Air Cooled,ASTM E8
+T6A4V_75060AC_Gem,Gemini,LLM,Synthetic,750K 60 min Air Cooled,ASTM E8
+T6A4V_750120FC_Gem,Gemini,LLM,Synthetic,750K 120 min Furnace Cooled,ASTM E8
+T6A4V_92045WQ_Gem,Gemini,LLM,Synthetic,920K 45 min Water Quenched,ASTM E8
+T6A4V_92060AC_Gem,Gemini,LLM,Synthetic,920K 60 min Air Cooled,ASTM E8
+T6A4V_100030WQ_Gem,Gemini,LLM,Synthetic,1000K 30 min Water Quenched,ASTM E8
+T6A4V_100060AC_Gem,Gemini,LLM,Synthetic,1000K 60 min Air Cooled,ASTM E8
+T6A4VO_91030WQ_Gem,Gemini,LLM,Synthetic,910K 30 min Water Quenched,ASTM E8
+T6A4VO_91060AC_Gem,Gemini,LLM,Synthetic,910K 60 min Air Cooled,ASTM E8
+T6A4VO_960120FC_Gem,Gemini,LLM,Synthetic,960K 120 min Furnace Cooled,ASTM E8
+Ti6242_90060WQ_Gem,Gemini,LLM,Synthetic,900K 60 min Water Quenched,ASTM E8
+Ti6242_900120AC_Gem,Gemini,LLM,Synthetic,900K 120 min Air Cooled,ASTM E8
+Ti6242_105060AC_Gem,Gemini,LLM,Synthetic,1050K 60 min Air Cooled,ASTM E8
+Ti6242_1050120FC_Gem,Gemini,LLM,Synthetic,1050K 120 min Furnace Cooled,ASTM E8
+T6M5V3A2F_80060AC_Gem,Gemini,LLM,Synthetic,800K 60 min Air Cooled,ASTM E8
+T6M5V3A2F_800120FC_Gem,Gemini,LLM,Synthetic,800K 120 min Furnace Cooled,ASTM E8
+T6M5V3A2F_90030WQ_Gem,Gemini,LLM,Synthetic,900K 30 min Water Quenched,ASTM E8
+T6M5V3A2F_90060AC_Gem,Gemini,LLM,Synthetic,900K 60 min Air Cooled,ASTM E8
+BT36_110060AC_Gem,Gemini,LLM,Synthetic,1100K 60 min Air Cooled,ASTM E8
+BT36_1100120FC_Gem,Gemini,LLM,Synthetic,1100K 120 min Furnace Cooled,ASTM E8
+BT36_125030WQ_Gem,Gemini,LLM,Synthetic,1250K 30 min Water Quenched,ASTM E8
+T6A4V_82530WQ_Gem,Gemini,LLM,Synthetic,825K 30 min Water Quenched,ASTM E8
+T6A4V_82560AC_Gem,Gemini,LLM,Synthetic,825K 60 min Air Cooled,ASTM E8
+T6A4V_825120FC_Gem,Gemini,LLM,Synthetic,825K 120 min Furnace Cooled,ASTM E8
+T6A4V_95030WQ_Gem,Gemini,LLM,Synthetic,950K 30 min Water Quenched,ASTM E8
+T6A4V_95060AC_Gem,Gemini,LLM,Synthetic,950K 60 min Air Cooled,ASTM E8
+T6A4V_950120FC_Gem,Gemini,LLM,Synthetic,950K 120 min Furnace Cooled,ASTM E8
+T6A4VO_93030WQ_Gem,Gemini,LLM,Synthetic,930K 30 min Water Quenched,ASTM E8
+T6A4VO_93060AC_Gem,Gemini,LLM,Synthetic,930K 60 min Air Cooled,ASTM E8
+T6A4VO_980120AC_Gem,Gemini,LLM,Synthetic,980K 120 min Air Cooled,ASTM E8
+Ti6242_92560WQ_Gem,Gemini,LLM,Synthetic,925K 60 min Water Quenched,ASTM E8
+Ti6242_925120AC_Gem,Gemini,LLM,Synthetic,925K 120 min Air Cooled,ASTM E8
+Ti6242_97560AC_Gem,Gemini,LLM,Synthetic,975K 60 min Air Cooled,ASTM E8
+Ti6242_975120FC_Gem,Gemini,LLM,Synthetic,975K 120 min Furnace Cooled,ASTM E8
+T6M5V3A2F_82560AC_Gem,Gemini,LLM,Synthetic,825K 60 min Air Cooled,ASTM E8
+T6M5V3A2F_825120FC_Gem,Gemini,LLM,Synthetic,825K 120 min Furnace Cooled,ASTM E8
+T6M5V3A2F_87530WQ_Gem,Gemini,LLM,Synthetic,875K 30 min Water Quenched,ASTM E8
+T6M5V3A2F_87560AC_Gem,Gemini,LLM,Synthetic,875K 60 min Air Cooled,ASTM E8
+BT36_115060AC_Gem,Gemini,LLM,Synthetic,1150K 60 min Air Cooled,ASTM E8
+BT36_1150120FC_Gem,Gemini,LLM,Synthetic,1150K 120 min Furnace Cooled,ASTM E8
+Ti55511_112045WQ_Gem,Gemini,LLM,Synthetic,1120K 45 min Water Quenched,ASTM E8
+Ti55511_105060AC_Gem,Gemini,LLM,Synthetic,1050K 60 min Air Cooled,ASTM E8
+Ti55511_1050120FC_Gem,Gemini,LLM,Synthetic,1050K 120 min Furnace Cooled,ASTM E8
+T2C4Z5A_90060AC_Gem,Gemini,LLM,Synthetic,900K 60 min Air Cooled,ASTM E8
+T2C4Z5A_900120FC_Gem,Gemini,LLM,Synthetic,900K 120 min Furnace Cooled,ASTM E8
+Ti_13Nb_13Zr_80060AC_Gem,Gemini,LLM,Synthetic,800K 60 min Air Cooled,ASTM E8
+Ti_13Nb_13Zr_800120FC_Gem,Gemini,LLM,Synthetic,800K 120 min Furnace Cooled,ASTM E8
 

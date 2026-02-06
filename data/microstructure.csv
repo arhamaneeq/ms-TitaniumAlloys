@@ -85,3 +85,128 @@ AM_syn03,0.60,alpha_prime,Martensitic / Columnar,,Synthetic
 AM_syn04,2.50,Alpha + Beta,Equiaxed / HIPed,,Synthetic
 AM_syn05,0.55,Alpha + Beta,Refined / Aged,,Synthetic
 AM_syn06,1.80,Alpha + Beta,Coarsened / Over-aged,,Synthetic
+
+alloy_id,grain_size_um,phases_reported,shape,vol_fr,phase_id_method
+Ti6A4V_Plex_92560AC,,alpha,Acicular,,Not reported
+Ti6A4V_Plex_95530WQ,0.028,alpha,Lamellar,,Not reported
+Ti6A4V_Plex_980120AC_520300AC,0.035,alpha,Acicular,68.5,Not reported
+Ti542_Plex_91060WQ,,alpha,,,Not reported
+Ti542_Plex_91060WQ_485240AC,0.072,alpha,Lamellar,,Not reported
+Ti5553_AM700,0.142,alpha,Acicular,3.8,Not reported
+Ti5553_AM750,0.095,alpha,Acicular,41.2,Not reported
+TC5M5V4_Plex_830120AC,0.038,alpha,Acicular,72.1,Not reported
+TC5M5V4_Plex_830120AC_550720AC,,alpha,,,Not reported
+TC5M5V4_Plex_830120AC_480720AC,0.022,alpha,Acicular,28.7,Not reported
+Ti6242_Plex_SPS,0.0,alpha-p,,,Not reported
+Ti6242_Plex_SPS75,0.018,alpha-p,Lath,,Not reported
+Ti13Nb13Zr_Plex_ST,,beta,Equiaxed,,Not reported
+Ti20Nb10Zr5Ta_Plex_ST,,beta,Equiaxed,,Not reported
+Ti29Nb13Ta4Zr_Plex_ST,,beta,Equiaxed,,Not reported
+Ti15Mo3Nb_Plex_ST,,beta,Equiaxed,,Not reported
+Ti15V3Cr3Al3Sn_Plex_SA,,beta,Equiaxed,,Not reported
+Ti1100_Plex_HT,,Primary Alpha,Globular/Equiaxed,18,Not reported
+BT36_Plex_FHT,,Alpha,Bimodal,,Not reported
+IMI834_Plex_1298120HT,,Alpha+Beta,Basket-weave,,Not reported
+Ti60_Plex_BM,,Alpha,Bimodal,,Not reported
+Ti60_Plex_873HT,,Alpha colony,Lamellar,,Not reported
+Ti64_TiC10_Plex,2-6,TiC,Dendritic,,Not reported
+Ti64_TiB15_Plex,,TiB,Needle/Whisker,,Not reported
+Ti64_SiC12_Plex,12-45,SiC,Particle,,Not reported
+Ti64_CNT2_Plex,0.03,CNT,Nano-dispersed,,Not reported
+Ti6A2Zr1Mo1V_La2O3_Plex,,La2O3,Particle,,Not reported
+NearAlpha_Y2O3_Plex,0.045,Y2O3,Nano-dispersed,,Not reported
+Ti6A4V_Plex_94060AC,0.65,alpha,Acicular,,Not reported
+Ti6A4V_Plex_975240FC,,alpha,Acicular,,Not reported
+Ti6A4V_Plex_920120WQ_535300AC,,alpha,Acicular,,Not reported
+Ti542_Plex_87560AC,0.325,alpha-p,Lamellar,54.2,Not reported
+Ti5553_Plex_650300AC,0.168,alpha,Acicular,5.2,Not reported
+TC11_Plex_95060WQ,,alpha+beta,,,Not reported
+TC11_Plex_95060WQ_510240AC,,alpha+beta,,,Not reported
+Ti6242_Plex_SPS25,0.012,alpha-p,Lath,,Not reported
+Ti13Nb13Zr_Plex_STA,,beta,Equiaxed,,Not reported
+Ti15Mo3Al3Nb_Plex,,beta,Equiaxed,,Not reported
+Ti6A4V_Plex_AR2,,alpha+beta,,,Not reported
+Ti6A4V_Plex_98530AC,,alpha,,,Not reported
+Ti6A4V_Plex_945120WQ,0.031,alpha,Lamellar,,Not reported
+Ti542_Plex_93060AC_495240AC,0.068,alpha,Lamellar,,Not reported
+Ti5553_Plex_725240FC,0.112,alpha,Acicular,38.7,Not reported
+TC11_Plex_975120AC,,alpha+beta,,,Not reported
+TC11_Plex_975120AC_525720AC,,alpha+beta,,,Not reported
+Ti6242_Plex_SPS50,0.021,alpha-p,Lath,,Not reported
+Ti20Nb10Zr5Ta_Plex_STA,,beta,Equiaxed,,Not reported
+Ti29Nb13Ta4Zr_Plex_STA,,beta,Equiaxed,,Not reported
+Ti15V3Cr3Al3Sn_Plex_ST,,beta,Equiaxed,,Not reported
+Ti1100_Plex_AR,,Alpha+Beta,Basket-weave,,Not reported
+BT36_Plex_AR,,Alpha,Globular,,Not reported
+IMI834_Plex_AR,,Primary Alpha,Globular/Equiaxed,16,Not reported
+Ti60_Plex_AR,,Alpha,Bimodal,,Not reported
+Ti64_TiC5_Plex,1-4,TiC,Dendritic,,Not reported
+Ti64_TiB10_Plex,,TiB,Needle/Whisker,,Not reported
+Ti64_SiC15_Plex,15-55,SiC,Particle,,Not reported
+Ti64_CNT1_Plex,0.02,CNT,Nano-dispersed,,Not reported
+Ti6A2Zr1Mo1V_La2O3_Plex2,,La2O3,Particle,,Not reported
+NearAlpha_Y2O3_Plex2,0.052,Y2O3,Nano-dispersed,,Not reported
+Ti6A4V_Plex_91560WQ,0.042,alpha,Lamellar,,Not reported
+Ti6A4V_Plex_960240AC,0.58,alpha,Acicular,,Not reported
+Ti542_Plex_895120FC,0.298,alpha-p,Lamellar,51.8,Not reported
+alloy_id,grain_size_um,phases_reported,shape,vol_fr,phase_id_method
+T6A4V_90030WQ_Gem,0.15,alpha+beta,Martensitic,92,EBSD
+T6A4V_90060AC_Gem,1.2,alpha+beta,Equiaxed,88,SEM
+T6A4V_980120FC_Gem,5.5,alpha+beta,Coarse Lamellar,85,Optical
+T6A4VO_94060WQ_560240AC_Gem,0.08,alpha+beta,Bimodal,75,EBSD
+T6M5V3A2F_85045WQ_Gem,0.45,alpha+beta,Acicular,82,SEM
+Ti6242_95060AC_Gem,2.1,alpha+beta,Widmanstatten,90,SEM
+T6A4V_80030WQ_Gem,2.5,alpha+beta,Equiaxed,92,SEM
+T6A4V_85060AC_Gem,2.8,alpha+beta,Equiaxed,91,SEM
+T6A4V_105030WQ_Gem,0.05,alpha',Acicular,100,XRD
+T6A4V_105060FC_Gem,15.0,alpha+beta,Coarse Lamellar,85,Optical
+T6A4VO_900120AC_Gem,1.5,alpha+beta,Equiaxed,88,SEM
+Ti6242_117360AC_Gem,4.2,alpha+beta,Widmanstatten,88,SEM
+Ti6242_873120AC_Gem,3.1,alpha+beta,Equiaxed,92,SEM
+BT36_120030AC_Gem,1.8,alpha+beta,Acicular,84,SEM
+T6A4V_75060AC_Gem,3.5,alpha+beta,Equiaxed,94,Optical
+T6A4V_750120FC_Gem,4.2,alpha+beta,Equiaxed,93,Optical
+T6A4V_92045WQ_Gem,0.22,alpha+beta,Martensitic,90,EBSD
+T6A4V_92060AC_Gem,1.8,alpha+beta,Equiaxed,87,SEM
+T6A4V_100030WQ_Gem,0.09,alpha',Acicular,98,XRD
+T6A4V_100060AC_Gem,2.5,alpha+beta,Widmanstatten,82,SEM
+T6A4VO_91030WQ_Gem,0.25,alpha+beta,Martensitic,91,EBSD
+T6A4VO_91060AC_Gem,1.8,alpha+beta,Equiaxed,86,SEM
+T6A4VO_960120FC_Gem,6.5,alpha+beta,Coarse Lamellar,83,Optical
+Ti6242_90060WQ_Gem,0.35,alpha+beta,Acicular,89,SEM
+Ti6242_900120AC_Gem,2.8,alpha+beta,Equiaxed,91,SEM
+Ti6242_105060AC_Gem,3.5,alpha+beta,Widmanstatten,85,SEM
+Ti6242_1050120FC_Gem,8.2,alpha+beta,Coarse Lamellar,81,Optical
+T6M5V3A2F_80060AC_Gem,1.2,alpha+beta,Equiaxed,85,SEM
+T6M5V3A2F_800120FC_Gem,2.5,alpha+beta,Coarse Lamellar,82,Optical
+T6M5V3A2F_90030WQ_Gem,0.18,alpha+beta,Martensitic,88,EBSD
+T6M5V3A2F_90060AC_Gem,1.5,alpha+beta,Acicular,86,SEM
+BT36_110060AC_Gem,2.1,alpha+beta,Widmanstatten,80,SEM
+BT36_1100120FC_Gem,5.2,alpha+beta,Coarse Lamellar,78,Optical
+BT36_125030WQ_Gem,0.06,alpha',Acicular,99,XRD
+T6A4V_82530WQ_Gem,0.45,alpha+beta,Martensitic,93,SEM
+T6A4V_82560AC_Gem,2.2,alpha+beta,Equiaxed,91,SEM
+T6A4V_825120FC_Gem,3.8,alpha+beta,Equiaxed,90,SEM
+T6A4V_95030WQ_Gem,0.12,alpha+beta,Martensitic,89,EBSD
+T6A4V_95060AC_Gem,2.5,alpha+beta,Widmanstatten,84,SEM
+T6A4V_950120FC_Gem,7.5,alpha+beta,Coarse Lamellar,82,Optical
+T6A4VO_93030WQ_Gem,0.18,alpha+beta,Martensitic,88,EBSD
+T6A4VO_93060AC_Gem,1.9,alpha+beta,Equiaxed,85,SEM
+T6A4VO_980120AC_Gem,2.8,alpha+beta,Widmanstatten,80,SEM
+Ti6242_92560WQ_Gem,0.42,alpha+beta,Acicular,90,SEM
+Ti6242_925120AC_Gem,3.1,alpha+beta,Equiaxed,93,SEM
+Ti6242_97560AC_Gem,3.8,alpha+beta,Widmanstatten,86,SEM
+Ti6242_975120FC_Gem,9.5,alpha+beta,Coarse Lamellar,80,Optical
+T6M5V3A2F_82560AC_Gem,1.5,alpha+beta,Equiaxed,84,SEM
+T6M5V3A2F_825120FC_Gem,3.2,alpha+beta,Coarse Lamellar,81,Optical
+T6M5V3A2F_87530WQ_Gem,0.22,alpha+beta,Martensitic,87,EBSD
+T6M5V3A2F_87560AC_Gem,1.8,alpha+beta,Acicular,85,SEM
+BT36_115060AC_Gem,2.5,alpha+beta,Widmanstatten,79,SEM
+BT36_1150120FC_Gem,6.5,alpha+beta,Coarse Lamellar,76,Optical
+Ti55511_112045WQ_Gem,0.12,beta+alpha",Fine Platelets,70,EBSD
+Ti55511_105060AC_Gem,2.2,alpha+beta,Bimodal,75,SEM
+Ti55511_1050120FC_Gem,5.5,alpha+beta,Lamellar,78,Optical
+T2C4Z5A_90060AC_Gem,2.1,alpha+beta,Equiaxed,85,SEM
+T2C4Z5A_900120FC_Gem,4.8,alpha+beta,Lamellar,82,Optical
+Ti_13Nb_13Zr_80060AC_Gem,1.5,alpha+beta,Equiaxed,95,SEM
+Ti_13Nb_13Zr_800120FC_Gem,3.2,alpha+beta,Equiaxed,94,Optical
